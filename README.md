@@ -1,2 +1,2 @@
-# CHDataSkippingTest
-ClickHouse data skipping indices preformance test.
+# ClickHouse analysing notebook
+iPython notebook helper for presentations.
